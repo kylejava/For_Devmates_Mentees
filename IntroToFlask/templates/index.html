@@ -5,6 +5,21 @@
     <title>Website Hosted From flask</title>
   </head>
   <body>
-    Hi! I am a website made with a Flask backend
+    <div class="main">
+      <h1>Temperature Converter</h1>
+      <p>Enter in degree</p>
+      <form action="/" method="post">
+        <input type="post" name="degree" >
+        <select class="degree_type" name="degree_type">
+          <option value="F">Fahrenheit</option>
+          <option value="C">Celcius</option>
+        </select>
+        <input type="submit" value="Convert!">
+      </form>
+
+
+      <h3>{{degree}}</h3>
+      <h3>{{converted_degree}}</h3>
+    </div>
   </body>
 </html>
