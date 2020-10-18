@@ -9,7 +9,7 @@ Throughout the Devmates Mentorship I plan on teaching my mentees more about diff
 - Workshop to teach mentees how to make API requests in Python
 - Utilized the OpenWeatherMap API to find weather in various cities
 
-### IntroToFlask
+### Intro To Flask
 - Workshop dedicated to teach the web framework Flask
 - Meant to teach mentees how to take data from the front-end to the back-end
 - A simple degree converter that converts Celcius to Fahrenheit and vice versa
