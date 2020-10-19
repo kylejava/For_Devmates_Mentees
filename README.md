@@ -1,3 +1,4 @@
+# Devmates
 This Repository is a directory of tutorials and examples that I have created in order to teach my Devmates mentees new skills and technologies.
 
 Throughout the Devmates Mentorship I plan on teaching my mentees more about different programming languages, web development, and app development.
@@ -15,3 +16,7 @@ Throughout the Devmates Mentorship I plan on teaching my mentees more about diff
 - A simple degree converter that converts Celcius to Fahrenheit and vice versa
 - Teaches the basics of HTML
 - Also taught how to push code into a Repository through Git
+
+### Weather Website With Flask
+- Website that teaches mentees how to combine the OpenWeatherMap API and the Flask framework
+- Mentees will develop a website that allows users to search up the weather in any city
