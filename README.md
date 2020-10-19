@@ -1,7 +1,11 @@
-# Devmates
+# DEVmates
+
+## What is DEVmates?
+DEVmates is a mentorship program for CS/CIS/SE/EE students at the California State University San Marcos. DEVmates aims to provide students with the chance to learn from one another, create supportive relationships, and strengthen the tech community @ CSUSM
+
 This Repository is a directory of tutorials and examples that I have created in order to teach my Devmates mentees new skills and technologies.
 
-Throughout the Devmates Mentorship I plan on teaching my mentees more about different programming languages, web development, and app development.
+As a mentor, I plan on teaching my mentees more about different programming languages, web development, and app development.
 
 ### Intro To Python
 - Workshop dedicated to teach the fundamentals of the Python programming languages
